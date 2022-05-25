@@ -1,2 +1,2 @@
 # paint-draw
-Desafio prático de Javascript referente ao curso B7Web, reproduzindo quadro de desenho/pintura.
+Practical Javascript challenge referring to the B7Web course, reproducing a drawing/painting board.
